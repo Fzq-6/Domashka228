@@ -1,0 +1,15 @@
+C:\C#\Domashka228\Domashka_C#\Task01\bin\Debug\net6.0\Domashka228.exe
+C:\C#\Domashka228\Domashka_C#\Task01\bin\Debug\net6.0\Domashka228.deps.json
+C:\C#\Domashka228\Domashka_C#\Task01\bin\Debug\net6.0\Domashka228.runtimeconfig.json
+C:\C#\Domashka228\Domashka_C#\Task01\bin\Debug\net6.0\Domashka228.dll
+C:\C#\Domashka228\Domashka_C#\Task01\bin\Debug\net6.0\Domashka228.pdb
+C:\C#\Domashka228\Domashka_C#\Task01\obj\Debug\net6.0\Domashka228.csproj.AssemblyReference.cache
+C:\C#\Domashka228\Domashka_C#\Task01\obj\Debug\net6.0\Domashka228.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Domashka228\Domashka_C#\Task01\obj\Debug\net6.0\Domashka228.AssemblyInfoInputs.cache
+C:\C#\Domashka228\Domashka_C#\Task01\obj\Debug\net6.0\Domashka228.AssemblyInfo.cs
+C:\C#\Domashka228\Domashka_C#\Task01\obj\Debug\net6.0\Domashka228.csproj.CoreCompileInputs.cache
+C:\C#\Domashka228\Domashka_C#\Task01\obj\Debug\net6.0\Domashka228.dll
+C:\C#\Domashka228\Domashka_C#\Task01\obj\Debug\net6.0\refint\Domashka228.dll
+C:\C#\Domashka228\Domashka_C#\Task01\obj\Debug\net6.0\Domashka228.pdb
+C:\C#\Domashka228\Domashka_C#\Task01\obj\Debug\net6.0\Domashka228.genruntimeconfig.cache
+C:\C#\Domashka228\Domashka_C#\Task01\obj\Debug\net6.0\ref\Domashka228.dll
